@@ -1,6 +1,6 @@
 /* Inserta tu código aqui */
 header {
-	background-color: #333333;
+	background-color:#3e3f40 ;
 }
 
 header nav ul li{
@@ -22,7 +22,7 @@ header nav ul a{
 }
 
 header nav ul a:hover{
-background-color: gray;
+    background-color: gray;
 } 
 
 .logo-header{
