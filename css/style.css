@@ -15,8 +15,8 @@ header nav ul a{
 	padding: 10px 15px;
 	color: #fff;
 	text-decoration: none;
-	font-size: 0.95em;
-	font-family: arial;
+	font-size: 20px;
+	font-family: 'Slabo 27px', serif;
 	top:40px;
 	
 }
@@ -25,7 +25,7 @@ header nav ul a:hover{
 background-color: gray;
 } 
 
-.logo{
+.logo-header{
 	float: left;
 	margin-left: 15px;
 }
@@ -35,7 +35,7 @@ background-color: gray;
 	width: 13.5px;
 }
 
-.linea{
+.separador{
 	width: 260px;
     border: 1px solid #d4d4d4;
     margin-top: -12px;
@@ -45,7 +45,7 @@ background-color: gray;
 	margin-bottom: 40px;
 }
 .aside h3{
-	font-family: Arial;
+	font-family: 'Indie Flower', cursive;
 	font-weight: 600;
 	color: #585858;
 }
@@ -76,6 +76,7 @@ footer div p a {
 	font-size: 1em;
 	text-decoration: none;
 	color: #424242;
+	font-family: 'Indie Flower', cursive;
 }
 
 .texto {
@@ -83,6 +84,7 @@ footer div p a {
 	font-size: 21px;
 	padding-top: 12px;
 	text-align: left;
+	font-family: 'Indie Flower', cursive;
 
 }
 .submenu {
