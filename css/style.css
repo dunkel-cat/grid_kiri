@@ -1,0 +1,95 @@
+/* Inserta tu código aqui */
+header {
+	background-color: #333333;
+}
+
+header nav ul li{
+	position: relative;
+	list-style: none;
+	float: right;
+	display: inline-block;
+}
+
+header nav ul a{
+	position: relative;
+	padding: 10px 15px;
+	color: #fff;
+	text-decoration: none;
+	font-size: 0.95em;
+	font-family: arial;
+	top:40px;
+	
+}
+
+header nav ul a:hover{
+background-color: gray;
+} 
+
+.logo{
+	float: left;
+	margin-left: 15px;
+}
+
+.col-3 p img.icons {
+	margin-right: 15px;
+	width: 13.5px;
+}
+
+.linea{
+	width: 260px;
+    border: 1px solid #d4d4d4;
+    margin-top: -12px;
+    margin-bottom: 29px;
+}
+.aside{
+	margin-bottom: 40px;
+}
+.aside h3{
+	font-family: Arial;
+	font-weight: 600;
+	color: #585858;
+}
+.aside p{
+	font-family: Arial;
+	font-size:16px;
+}
+.aside  a{
+	text-decoration: none;
+}
+
+footer {
+	height: 272px;
+	background: #6E6E6E;
+	text-align: center;
+	font-family: arial;
+	padding: 20px 0px;
+}
+
+footer div a {
+	text-decoration: none;
+	padding-left: 8px;
+	color: #424242;
+
+}
+
+footer div p a {
+	font-size: 1em;
+	text-decoration: none;
+	color: #424242;
+}
+
+.texto {
+	color: white;
+	font-size: 21px;
+	padding-top: 12px;
+	text-align: left;
+
+}
+.submenu {
+	margin: 50px;
+}
+.read {
+	color: #424242;
+	font-size: 0.7em;
+	margin: 50px;
+}
